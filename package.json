@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namste react assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npm start",
+    "build": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav-vichare/Namaste-React.git"
+  },
+  "author": "Vaibhav Vichare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhav-vichare/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/vaibhav-vichare/Namaste-React#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "browserlist": [
+    "cover 99.5%"
+  ]
+}
