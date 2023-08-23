@@ -1,0 +1,18 @@
+.header-container {
+    display: flex;
+}
+
+.logo-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.profile-conatiner {
+    display: flex;
+    align-items: flex-end;
+}
